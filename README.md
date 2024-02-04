@@ -1,4 +1,4 @@
-# Insta prop admin
+# Bnoni Sway
 
 <p float="center">
 <img src="https://github.com/Ibrahim12699/Bnoni-sway-public/blob/main/screenshots/logo.png?raw=true" width="800" />
@@ -10,14 +10,13 @@
      <summary> Click to expand </summary>
 
 * OnBoarding
-* facebook login
-* google login
-* apple login
+* Facebook login
+* Google login
+* Apple login
 * Home
 * Search
 * Filter
-* agora video call
-* agora voice call
+* Agora video & voicecall 
 * View property
 * Favorite
 * Chat with Doctor & Experts
